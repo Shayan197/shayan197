@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Shayan Mustafa Bukhari</h1>
-<h3 align="center">Full Stack Developer — Next.js | React.js | TypeScript | Node.js</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Shayan Bukhari</h1>
+<h3 align="center">Frontend and MERN Stack Developer — Next.js | React.js | TypeScript | Node.js</h3>
 <img align="right" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="loading">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=shayan197&label=Profile%20views&color=0e75b6&style=flat" alt="shayan197" /> 
