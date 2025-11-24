@@ -1,4 +1,4 @@
-<h1 align="center">Salam ✋, I'm Muhammad Shayan Bukhari</h1>
+<h1 align="center">Salam 👋, I'm Muhammad Shayan Bukhari</h1>
 <h3 align="center">Frontend and MERN Stack Developer — Next.js | React.js | TypeScript | Node.js</h3>
 <img align="right" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="loading">
 <p align="left"> 
